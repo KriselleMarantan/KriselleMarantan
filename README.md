@@ -1,4 +1,4 @@
-- 👋 Hello everyone! I’m @KriselleMarantan
+- 👋 Hello everyone! My name is Kriselle. 
 - 👀 I’m interested in software developement. 
 - 🌱 I’m currently learning the basics of python and I just enrolled for a computer science degree.
 - 💞️ I’m looking to collaborate on any python projects needed!
